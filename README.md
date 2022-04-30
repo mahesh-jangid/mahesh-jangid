@@ -22,7 +22,7 @@ positivity.Now I am looking for an opportunity as a full stack web developer wit
 * 🌱 I’m currently learning MERN Stacks, Data Structures & Algorithms.
 * 👯 I’m looking to collaborate on **Open Source Projects**.
 * 🤔 I’m looking for help with developing web apps.
-* 👨‍💻 All of my projects are available at [My Portfolio]
+* 👨‍💻 All of my projects are available at [My Portfolio](https://mahesh-jangid-portfolio.vercel.app)
 * 📫 How to reach me maheshjangid7568@gmail.com
 - ⚡ Fun fact: **Don't stop until you are proud**.
 - - 💼 any freelance work? do reach, ✔️[Linkedin](https://www.linkedin.com/in/mahesh-jangid-a23479233/)
