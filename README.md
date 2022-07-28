@@ -65,7 +65,7 @@ positivity.Now I am looking for an opportunity as a full stack web developer wit
         src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"
         height="25px" />   
     <img alt="Chakra UI"
-        src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white"
+        src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=chakra-ui&logoColor=white"
         height="25px" />
     <img alt="Markdown"
         src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"
